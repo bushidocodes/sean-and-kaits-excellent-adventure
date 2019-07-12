@@ -1,0 +1,7 @@
+[package]
+name = "sean-and-kaits-most-excellent-adventure"
+version = "0.1.0"
+authors = ["Sean McBride <spmcbride1201@gmail.com>"]
+edition = "2018"
+
+[dependencies]
